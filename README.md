@@ -1,5 +1,6 @@
 ## Professional rubber duck debugger
 
-- :office: Currently working at [Sopra Steria](https://www.soprasteria.no/)
-- :heart_eyes: [Svelte](https://svelte.dev/), [Go](https://go.dev/) & [Kubernetes](https://kubernetes.io/)
-- :seedling: Currently learning [Elixir](https://elixir-lang.org/)
+![](https://komarev.com/ghpvc/?username=helgelol&style=flat-square&color=green&label=VIEWS)
+
+Fullstack developer at [Sopra Steria](https://www.soprasteria.no/).  
+I do a lot of [Kubernetes](https://kubernetes.io/), sprinkled with [Go](https://go.dev/) and some occasional [Svelte](https://svelte.dev/).
